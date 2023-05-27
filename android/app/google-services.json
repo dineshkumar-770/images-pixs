@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854593481715",
+    "project_id": "wallpaper-pixs",
+    "storage_bucket": "wallpaper-pixs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854593481715:android:d3894e93d686a20ea40086",
+        "android_client_info": {
+          "package_name": "com.example.wallpaper_pix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854593481715-q1g9l7n7cn98m4ib5oqifdesekb2sujn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy821BirN7TD9LL_jl3JAGmWyrnLjz2vI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854593481715-q1g9l7n7cn98m4ib5oqifdesekb2sujn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
